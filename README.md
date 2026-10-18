@@ -59,11 +59,15 @@ The Power BI dashboard explores healthcare service costs, beneficiary counts, se
 
 ![Synthetic Medicare Analytics Power BI Dashboard](power%20bi/Synthetic_Medicare_Analytics_Dashboard.png)
 
+
 ### Tableau
 
-The Tableau dashboard presents the same synthetic Medicare dataset through interactive visualizations.
+Explore the interactive Synthetic Medicare Analytics dashboard on Tableau Public.
 
-[View the Tableau packaged workbook](tableau/Synthetic_Medicare_Analytics.twbx)
+[**View the Interactive Tableau Dashboard**](https://public.tableau.com/shared/3JZTCD6HX?:display_count=n&:origin=viz_share_link)
+
+The dashboard presents healthcare service costs by year, beneficiary counts, healthcare costs by service category, and Medicare claim activity.
+
 
 
 ## Purpose
