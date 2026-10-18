@@ -50,9 +50,21 @@ Synthetic-Medicare-Analytics/
 
 Raw source data, large cleaned datasets, and the large Power BI report file are maintained locally and are not intended for upload to this repository.
 
+
 ## Dashboards
 
-Dashboard screenshots and report files will be added to the repository as appropriate.
+### Power BI
+
+The Power BI dashboard explores healthcare service costs, beneficiary counts, service categories, and Medicare claim activity.
+
+![Synthetic Medicare Analytics Power BI Dashboard](power%20bi/Synthetic_Medicare_Analytics_Dashboard.png)
+
+### Tableau
+
+The Tableau dashboard presents the same synthetic Medicare dataset through interactive visualizations.
+
+[View the Tableau packaged workbook](tableau/Synthetic_Medicare_Analytics.twbx)
+
 
 ## Purpose
 
